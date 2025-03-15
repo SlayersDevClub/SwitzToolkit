@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4337568140696759941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 562764960163941184}
+  - component: {fileID: 5412534545875934366}
+  m_Layer: 0
+  m_Name: CursorManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &562764960163941184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337568140696759941}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 930, y: 523, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5412534545875934366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4337568140696759941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f85f5b2fb45e79478b5d655576b0f38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resizeHorizontalCursor: {fileID: 2800000, guid: c5a7c4639889649f5943576e324d49b0,
+    type: 3}
+  resizeVerticalCursor: {fileID: 2800000, guid: 329a252df51f24b2c864561a922def41,
+    type: 3}
+  resizeDiagonalLeftCursor: {fileID: 2800000, guid: 208caf20016d24acbbf5bb0f910d4354,
+    type: 3}
+  resizeDiagonalRightCursor: {fileID: 2800000, guid: 4b16fa11766cd42a0a23529f1fe90a09,
+    type: 3}
+  noCursor: {fileID: 2800000, guid: 0cac20216c3ff470b840deff9330f6bc, type: 3}
+  marqueeSelectCursor: {fileID: 2800000, guid: 6db7a492a16e34fe59d0272d50f6b382, type: 3}
+  normalCursor: {fileID: 2800000, guid: 871369ba943554c0e9a568aec257b676, type: 3}
+  moveCursor: {fileID: 2800000, guid: 0fbbfbf3210b7430b8feab89b01bc02f, type: 3}
+  loadingCursor: {fileID: 2800000, guid: d85d4e47fa3384e428c3b12340c20383, type: 3}
+  _hotspot: {x: 0, y: 0}

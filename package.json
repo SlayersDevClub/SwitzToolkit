@@ -1,0 +1,24 @@
+{
+  "name": "com.ss.gui",
+  "version": "1.0.1",
+  "displayName": "SS GUI",
+  "description": "This is a User Interface system designed by Serge.",
+  "unity": "2019.1",
+ "keywords": [
+    "GUI",
+    "GUI system",
+    "user interface"
+  ],
+  "author": {
+    "name": "S Switz",
+    "email": "s@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+ "samples": [
+  {
+	"displayName": "Demo Scene 1",
+	"description": " Demonstrates the window system.",
+	"path": "Samples~/Demo_1"
+  }
+ ]
+}
