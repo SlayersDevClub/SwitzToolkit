@@ -1,8 +1,8 @@
 {
-  "name": "com.ss.gui",
+  "name": "com.ss.toolkit",
   "version": "1.0.1",
-  "displayName": "SS GUI",
-  "description": "This is a User Interface system designed by Serge.",
+  "displayName": "Switz Toolkit",
+  "description": "This is a collection of scripts and assets used for game dev.",
   "unity": "2019.1",
  "keywords": [
     "GUI",
@@ -16,9 +16,10 @@
   },
  "samples": [
   {
-	"displayName": "Demo Scene 1",
-	"description": " Demonstrates the window system.",
-	"path": "Samples~/Demo_1"
+	"displayName": "User interface",
+	"description": "Prefabs and example scenes used for making an interface.",
+	"path": "Samples~/GUI"
   }
+ 
  ]
 }
