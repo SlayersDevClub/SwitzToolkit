@@ -1,6 +1,6 @@
 {
-    "name": "SSGUIEditor",
-    "rootNamespace": "SSGUIEditor",
+    "name": "SwitzToolkit",
+    "rootNamespace": "SwitzToolkit",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [
